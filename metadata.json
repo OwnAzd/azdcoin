@@ -1,0 +1,38 @@
+{
+  "name": "Azauld Coin",
+  "symbol": "AZD",
+  "description": "Azauld Coin (AZD) is a privacy-focused cryptocurrency designed for secure, anonymous transactions. Inspired by the Protect Project (PTP), AZD offers default privacy, no metadata leakage, and no traceable addresses. Fast, lightweight, and built with a purpose: to protect your financial freedom.",
+  "image": "https://github.com/OwnAzd/azdcoin/blob/main/azauld_coin.png",
+  "external_url": "https://azauldcoin.org",
+  "attributes": [
+    {
+      "trait_type": "Privacy",
+      "value": "Enabled by default"
+    },
+    {
+      "trait_type": "Transaction Speed",
+      "value": "Fast"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "21,000,000 AZD"
+    },
+    {
+      "trait_type": "Metadata Leakage",
+      "value": "None"
+    },
+    {
+      "trait_type": "Censorship Resistance",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Governance",
+      "value": "Planned (2026)"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Financial Privacy & Freedom"
+    }
+  ]
+}
+
